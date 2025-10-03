@@ -1,0 +1,21 @@
+:root {
+  font-family: 'Noto Sans TC', serif;
+  --success-color: #4caf50;
+  --error-color: #f44336;
+  --warn-color: #ff9800;
+  --text-color: #333;
+  --background-color: #fff;
+}
+
+@media (max-width: 320px) {
+  :root {
+    font-size: 14px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--background-color);
+  color: var(--text-color);
+}

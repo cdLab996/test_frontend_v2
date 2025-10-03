@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome",
+  "test": "Test",
+  "operation": "Operation",
+  "name": "Name",
+  "age": "Age",
+  "edit": "Edit",
+  "delete": "Delete",
+  "add": "Add",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "confirmEdit": "Are you sure you want to edit this user?",
+  "confirmDelete": "Are you sure you want to delete this user?",
+  "confirmAdd": "Are you sure you want to add this user?",
+  "nameRequired": "Name is required",
+  "ageRequired": "Age is required",
+  "ageInvalid": "Age must be greater than 0",
+  "success": "Operation successful",
+  "error": "Operation failed"
+}
